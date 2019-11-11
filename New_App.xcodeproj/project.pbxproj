@@ -14,7 +14,6 @@
 		497420612377B49300EFED93 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 497420602377B49300EFED93 /* Preview Assets.xcassets */; };
 		497420642377B49300EFED93 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 497420622377B49300EFED93 /* LaunchScreen.storyboard */; };
 		497420702377D9E400EFED93 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4974206F2377D9E400EFED93 /* ResultView.swift */; };
-		497420922378444800EFED93 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 497420912378444800EFED93 /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		497420632377B49300EFED93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		497420652377B49300EFED93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4974206F2377D9E400EFED93 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
-		497420912378444800EFED93 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +62,6 @@
 				497420592377B49200EFED93 /* SceneDelegate.swift */,
 				4974205B2377B49200EFED93 /* ContentView.swift */,
 				4974206F2377D9E400EFED93 /* ResultView.swift */,
-				497420912378444800EFED93 /* Data.swift */,
 				4974205D2377B49300EFED93 /* Assets.xcassets */,
 				497420622377B49300EFED93 /* LaunchScreen.storyboard */,
 				497420652377B49300EFED93 /* Info.plist */,
@@ -153,7 +150,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				497420582377B49200EFED93 /* AppDelegate.swift in Sources */,
-				497420922378444800EFED93 /* Data.swift in Sources */,
 				497420702377D9E400EFED93 /* ResultView.swift in Sources */,
 				4974205A2377B49200EFED93 /* SceneDelegate.swift in Sources */,
 				4974205C2377B49200EFED93 /* ContentView.swift in Sources */,
